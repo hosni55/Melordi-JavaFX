@@ -2,6 +2,16 @@
 
 A modern JavaFX musical keyboard application that simulates various instruments with MIDI sound generation.
 
+## 📸 Demo
+
+<p align="center">
+  <img src="demo/screenshot.png" alt="Melordi Interface" width="700"/>
+</p>
+
+<p align="center">
+  <img src="demo/playing.png" alt="Melordi Playing" width="700"/>
+</p>
+
 ## ✨ Features
 
 - **Interactive Keyboard**: 8-key virtual keyboard mapped to keyboard keys (U, I, O, P, J, K, L, M).
