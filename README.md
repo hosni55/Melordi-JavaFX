@@ -5,11 +5,21 @@ A modern JavaFX musical keyboard application that simulates various instruments 
 ## 📸 Demo
 
 <p align="center">
-  <img src="demo/screenshot.png" alt="Melordi Interface" width="700"/>
+  <img src="demo/screenshot1.png" alt="Melordi - Piano Mode" width="700"/>
+  <br/>
+  <em>Piano mode with green Play button</em>
 </p>
 
 <p align="center">
-  <img src="demo/playing.png" alt="Melordi Playing" width="700"/>
+  <img src="demo/screenshot2.png" alt="Melordi - Playing" width="700"/>
+  <br/>
+  <em>Organ mode with red Stop button during playback</em>
+</p>
+
+<p align="center">
+  <img src="demo/screenshot3.png" alt="Melordi - Key Press" width="700"/>
+  <br/>
+  <em>Interactive key press demonstration</em>
 </p>
 
 ## ✨ Features
